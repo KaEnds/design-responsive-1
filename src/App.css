@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.App {
+  text-align: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.Logo-Heading {
+  font-size: 7vw;
+}
+
+.Heading{
+  font-size: 3rem;
+}
+
+.Logo-nav{
+  font-size: 1rem!important;
+}

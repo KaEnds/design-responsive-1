@@ -1,0 +1,24 @@
+.downbutton{
+    opacity: 0;
+    transition: 1s;
+    cursor: pointer;
+    top: 80%!important;
+    width: 50%;
+}
+
+.mainIMG{
+    filter: grayscale(100%);
+}
+
+.logo{
+    top: 40%!important;
+}
+
+.downbutton:hover{
+    opacity: 1;
+}
+
+.ending{
+    width: 100%;
+    border: 2px solid black;
+}
